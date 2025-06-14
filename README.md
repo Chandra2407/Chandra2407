@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Airtel India**
 
-- 🌱 I’m currently learning **Next JS, Spring Boot**
+- 🌱 I’m currently learning **NextJS, NodeJs**
 
 - 👨‍💻 All of my projects are available at [https://chandrak-portfolio.netlify.app/](https://chandrak-portfolio.netlify.app/)
 
