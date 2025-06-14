@@ -9,6 +9,8 @@
 
 - 👨‍💻 All of my projects are available at [https://chandrak-portfolio.netlify.app/](https://chandrak-portfolio.netlify.app/)
 
+- 👨‍💻 Posting the things i am learning at [https://graydragneel.medium.com/](https://graydragneel.medium.com/)
+
 - 📫 How to reach me **chandra240797@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
